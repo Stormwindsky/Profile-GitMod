@@ -1,5 +1,5 @@
 # Welcome to my profile
 
-## [Source](https://github.com/Stormwindsky/Profile-GitMod/blob/main/loading-anim.gif?raw=true)
+## [Source](https://raw.githubusercontent.com/Stormwindsky/Profile-GitMod/refs/heads/main/loading-anim.gif)
 
 Hi ^^
